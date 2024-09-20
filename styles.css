@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: rgb(253, 251, 255);
+margin: 0px;
+margin-bottom: 40px;
+}
+
+header  {
+    font-size: 30px;
+    color: initial;
+    border-bottom: solid 3px rgb(242, 239, 245);
+    padding: 20px;
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 45px;
+}
+.chama-video-intro  {
+
+
+
+
+    background-color: indigo;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chama-texto  {
+margin-right: 20px;
+
+}
+
+h1  {
+
+    font-family: "Matemasie", sans-serif;   
+}
+
+p  {
+    font-family: "Matemasie", sans-serif;
+
+}
+
+
+
+img{
+height: 200px;
+
+}
+
+.indicacao-filmes{
+display:flex; 
+overflow-x: auto;
+gap: 10px;
+}
+
+.sugestoes {
+padding-left: 15px;
+padding-right: 15px;
+
+}
+
+footer  {
+    background: radial-gradient(#ff0000, transparent);
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    height: 40px
+
+}
+
+footer p  {
+    color: rgb(255, 255, 255);
+    font-size: 15;
+    text-align: center;
+    margin-top: 7px;
+}
+
